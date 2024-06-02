@@ -24,6 +24,10 @@ nav ul li{
     list-style: none;
     font-size: 22px;
 }
+i{
+    font-size: 60px;
+    display: none;
+}
 .join{
     background: linear-gradient(to left, rgb(70, 70, 145), red);
     border-radius: 18px;
@@ -84,5 +88,8 @@ button{
     }
     .right img{
         width:450px;
+    }
+    i{
+        display: none;
     }
 }
